@@ -2,4 +2,4 @@
 
 ### 💫 About Me
 
-* 🌱 I’m currently learning AI,LLM,**
+* 🌱 I’m currently learning AI,LLM.
